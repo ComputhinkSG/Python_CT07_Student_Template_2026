@@ -2,18 +2,9 @@
 #            Techniques
 
 ## Task 1: The first run
-1. Go to replit and click on the file "main.py"
+1. Click on the file "lesson1.py"
 2. Run the program by clicking on the "Run" button.
-3. What do you see in the "Console" on the right side?
-
----------------------------------------------------------------
-
-## Task 2: Change main.py to run lesson1.py file
-All replit projects run from main.py.
-1. Comment the line that says:
-   **print("Hello from main.py")**
-2. Uncomment the line that says
-   **from CT07_01 import lesson1.py**
+3. What do you see in the "Console" below?
 
 ---------------------------------------------------------------
 
